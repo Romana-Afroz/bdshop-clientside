@@ -5,15 +5,15 @@ import NewsCard from '../NewsCard/NewsCard';
 
 const latestNews = [
   {
-    title: "New Watch Arrivals",
+    title: "New shoes Arrivals",
     time: "March 15, 2021",
-    discription: "Apple Watch online at best price in India. Check full specifications of Apple Watch smartwatch with its features...",
+    discription: "Shoes online at best price in bd. Check full specifications of bdshoes with its ...",
     image: news1img
   },
   {
-    title: "Replace New Parts",
+    title: " New Outlet",
     time: "March 17, 2021",
-    discription: "Buy Xiaomi Mi Watch online at best price in India. Check full specifications of Xiaomi Mi Watch smartwatch with its features...",
+    discription: "Buy shoes online at best price in BD. Check full specifications of apex shoes with ...",
     image: news2img
   }
 ]

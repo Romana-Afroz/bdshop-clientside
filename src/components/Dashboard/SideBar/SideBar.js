@@ -25,8 +25,8 @@ const Sidebar = () => {
     <div className='side-bar'>
       <Link className="navbar-brand text-center" to="/">
         <div className="my-3">
-          <h3 className='m-0 brand-color website-name'>WATCHSHOP</h3>
-          <small className='business text-white'>WATCHSHOP SEEL SERVICE</small>
+          <h3 className='m-0 brand-color website-name'>BDHSHOP</h3>
+          <small className='business text-white'>BDSHOP SEEL SERVICE</small>
         </div>
       </Link>
       {
