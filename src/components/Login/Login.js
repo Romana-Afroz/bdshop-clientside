@@ -36,8 +36,8 @@ const Login = () => {
         <div className='text-center login-card card p-5'>
           <div className="d-flex justify-content-center my-3">
             <Link className="navbar-brand text-center" to="/">
-              <h3 className='m-0 brand-color website-name'>WATCHSHOP</h3>
-              <small className='business text-dark'>WATCHSHOP NUMBER ONE SHOPING SITE</small>
+              <h3 className='m-0 brand-color website-name'>BDSHOP</h3>
+              <small className='business text-dark'>BDSHOP NUMBER ONE SHOPING SITE</small>
             </Link>
           </div>
           <h4 >Login With</h4>

@@ -29,11 +29,11 @@ const Footer = () => {
               <h4>Our Products</h4>
             </div>
             <div className="our-services-details">
-              <Link to='/' className='d-block p-0 mb-4 item-link nav-link'><FontAwesomeIcon className='brand-color' icon={faCheckCircle} /> <span> Watch serviceing</span></Link>
-              <Link to='/' className='d-block p-0 mb-4 item-link nav-link'><FontAwesomeIcon className='brand-color' icon={faCheckCircle} /> <span> helth view</span></Link>
-              <Link to='/' className='d-block p-0 mb-4 item-link nav-link'><FontAwesomeIcon className='brand-color' icon={faCheckCircle} /> <span> Watch repair and change service</span></Link>
-              <Link to='/' className='d-block p-0 mb-4 item-link nav-link'><FontAwesomeIcon className='brand-color' icon={faCheckCircle} /> <span> Watch selling and buying service</span></Link>
-              <Link to='/' className='d-block p-0 mb-4 item-link nav-link'><FontAwesomeIcon className='brand-color' icon={faCheckCircle} /> <span> Test your wotch before buy</span></Link>
+              <Link to='/' className='d-block p-0 mb-4 item-link nav-link'><FontAwesomeIcon className='brand-color' icon={faCheckCircle} /> <span> Shoes Order</span></Link>
+              <Link to='/' className='d-block p-0 mb-4 item-link nav-link'><FontAwesomeIcon className='brand-color' icon={faCheckCircle} /> <span> shoes view</span></Link>
+              <Link to='/' className='d-block p-0 mb-4 item-link nav-link'><FontAwesomeIcon className='brand-color' icon={faCheckCircle} /> <span> Shoes change service</span></Link>
+              <Link to='/' className='d-block p-0 mb-4 item-link nav-link'><FontAwesomeIcon className='brand-color' icon={faCheckCircle} /> <span> shoes buying service</span></Link>
+              <Link to='/' className='d-block p-0 mb-4 item-link nav-link'><FontAwesomeIcon className='brand-color' icon={faCheckCircle} /> <span> Test your shoes before buy</span></Link>
             </div>
           </div>
           <div className="col-md-3 my-3 our-support">
